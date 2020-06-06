@@ -36,5 +36,5 @@ visit github page.
 ## :star: PrintScren
 
 <p align="center">
-  <img alt="presentatio" src=".images/presentatio.git" width="450px">
+  <img alt="presentation" src=".images/presentation.git" width="450px">
 </p>
