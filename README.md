@@ -14,7 +14,7 @@
 
 ## :star: About the App
 
-A simple desktop aplication to add repositories to a list and then list they info.
+A simple desktop aplication to add repositories to a list and then show they info.
 It was made using react and typescript.
 
 ## :star: Functionalities
